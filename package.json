@@ -1,0 +1,12 @@
+{
+  "name": "graphql-node-app",
+  "version": "1.0.0",
+  "description": "A simple GraphQL Apollo Server",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.0.0",
+    "graphql": "^15.5.0"
+  }
+}
